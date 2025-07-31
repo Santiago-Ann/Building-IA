@@ -27,7 +27,6 @@ La solución funciona mediante sensores conectados a una unidad central que reco
 
 El sistema está pensado para hogares, centros comunitarios y pequeños establecimientos. Los usuarios no requieren conocimientos técnicos, ya que la interfaz es automática y las alertas son claras.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 ## Fuentes de datos y métodos de IA
 
@@ -64,11 +63,3 @@ Para continuar se requerirá:
 * Desarrollo de interfaces accesibles
 * Validación en entornos reales con usuarios finales
 
-## Agradecimientos
-
-* Inspiración derivada de los contenidos del curso Building AI por la Universidad de Helsinki y Reaktor.
-* Agradecimiento especial a quienes colaboraron en las pruebas de campo.
-* Las imágenes utilizadas respetan licencias Creative Commons.
-
-Por ejemplo:  
-[Gato durmiendo boca arriba de Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
